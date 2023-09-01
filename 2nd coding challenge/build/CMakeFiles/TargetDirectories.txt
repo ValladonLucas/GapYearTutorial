@@ -1,0 +1,3 @@
+/home/lucas/Documents/Césure/GapYearTutorial/2nd coding challenge/build/CMakeFiles/main.dir
+/home/lucas/Documents/Césure/GapYearTutorial/2nd coding challenge/build/CMakeFiles/edit_cache.dir
+/home/lucas/Documents/Césure/GapYearTutorial/2nd coding challenge/build/CMakeFiles/rebuild_cache.dir

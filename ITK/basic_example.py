@@ -21,4 +21,4 @@ plt.imshow(median, cmap='gray')
 plt.show()
 
 # Save image
-itk.imwrite(median, output_filename, compression=True)
+itk.imwrite(median, output_filename)
